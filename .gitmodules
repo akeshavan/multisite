@@ -1,9 +1,9 @@
 [submodule "pelican-plugins"]
 	path = pelican-plugins
-	url = git@github.com:akeshavan/pelican-plugins
+	url = https://github.com/akeshavan/pelican-plugins
 [submodule "pelican-themes"]
 	path = pelican-themes
-	url = git@github.com:akeshavan/pelican-themes.git
+	url = https://github.com/akeshavan/pelican-themes.git
 [submodule "bioe_rotation3"]
 	path = bioe_rotation3
-	url = git@github.com:akeshavan/bioe_rotation3.git
+	url = https://github.com/akeshavan/bioe_rotation3.git

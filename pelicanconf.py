@@ -5,7 +5,7 @@ import os
 
 AUTHOR = u'Anisha Keshavan'
 SITENAME = u'MultiSite MRI'
-SITEURL = 'https://akeshavan.github.io/multisite/'
+SITEURL = 'http://akeshavan.github.io/multisite/'
 
 PATH = 'content'
 

@@ -7,5 +7,5 @@ Slug: Freesurfer-Results-Part-1
 Author: Anisha Keshavan
 Summary: Recon-all results from Freesurfer
 
-{% notebook notebooks/Overview01.ipynb %}
+{% notebook Overview01.ipynb %}
 

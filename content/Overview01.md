@@ -1,5 +1,5 @@
 Title: Freesurfer Results Part 1
-Date: Thursday 19. June 2014
+Date: June 19 2014
 Category: Python
 Tags: freesurfer
 Slug: Freesurfer-Results-Part-1

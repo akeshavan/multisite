@@ -1,10 +1,10 @@
 Title: Freesurfer Results Part 1
-Date: <type 'datetime.date'>
+Date: Thursday 19. June 2014
 Category: Python
-Tags: freesurfer, recon-all
+Tags: freesurfer
 Slug: Freesurfer-Results-Part-1
 Author: Anisha Keshavan
-Summary: Recon-all results from Freesurfer
+Summary: First part of freesurfer results
 
 {% notebook Overview01.ipynb %}
 

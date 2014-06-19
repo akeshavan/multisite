@@ -1,4 +1,3 @@
-
 Title: Freesurfer Results Part 1
 Date: <type 'datetime.date'>
 Category: Python
